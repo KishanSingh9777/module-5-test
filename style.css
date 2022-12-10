@@ -24,7 +24,7 @@ input[type=text]{
     width: 70%;
     height: 100%;
     color: wheat;
-    font-family:cursive ;
+    font-family:cursive;
     font-size: medium;
     background-color: black;
     border: none;
@@ -64,7 +64,7 @@ input[type=date]{
     width: 70%;
     height: 100%;
     color: wheat;
-    font-family:cursive ;
+    font-family:cursive;
     font-size: medium;
     background-color: black;
     border: none;
