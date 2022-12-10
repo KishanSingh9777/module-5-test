@@ -24,7 +24,6 @@ input[type=text]{
     width: 70%;
     height: 100%;
     color: wheat;
-    font-family:cursive;
     font-size: medium;
     background-color: black;
     border: none;
@@ -34,7 +33,6 @@ input[type=email]{
     width: 70%;
     height: 100%;
     color: wheat;
-    font-family:cursive ;
     font-size: medium;
     background-color: black;
     border: none;
@@ -44,7 +42,6 @@ input[type=password]{
     width: 70%;
     height: 100%;
     color: wheat;
-    font-family:cursive ;
     font-size: medium;
     background-color: black;
     border: none;
@@ -54,7 +51,6 @@ input[type=cpassword]{
     width: 70%;
     height: 100%;
     color: wheat;
-    font-family:cursive ;
     font-size:medium;
     background-color: black;
     border: none;
@@ -64,12 +60,12 @@ input[type=date]{
     width: 70%;
     height: 100%;
     color: wheat;
-    font-family:cursive;
     font-size: medium;
     background-color: black;
     border: none;
     border-bottom: 2px solid wheat;
 }
+input:radio
 .btn{
     width: 17vh;
     height: 28px;
